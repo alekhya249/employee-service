@@ -18,16 +18,16 @@ This is a Spring Boot-based REST API that manages employee data. It supports add
 
 src
 ├── main
-│ └── java
-│ └── com.example.employeeservice
-│ ├── Employee.java
-│ ├── Employees.java
-│ ├── EmployeeManager.java
-│ └── EmployeeController.java
+│   └── java
+│       └── com.example.employeeservice
+│           ├── Employee.java
+│           ├── Employees.java
+│           ├── EmployeeManager.java
+│           └── EmployeeController.java
 ├── test
-│ └── java
-│ └── com.example.employeeservice
-│ └── EmployeeControllerTest.java
+│   └── java
+│       └── com.example.employeeservice
+│           └── EmployeeControllerTest.java
 
 
 
